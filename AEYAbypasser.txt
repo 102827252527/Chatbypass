@@ -1,4 +1,4 @@
--- Heavily obfuscated UI
+-- Heavily obfuscated functions send chat And delete first before executing again 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/102827252527/Yooooo/refs/heads/main/Random%20Stuff"))()
 local player = game.Players.LocalPlayer
 local playerGui = player:WaitForChild("PlayerGui")
@@ -51,3 +51,6 @@ sendButton.MouseButton1Click:Connect(function()
     textBox.Text = "Enter Text..."
 end)
 -- Replacements
+loadstring(game:HttpGet("https://raw.githubusercontent.com/102827252527/Bribthinks/refs/heads/main/LOCALREPLACETEXT"))()
+-- Medium Obfuscated draggble UI
+loadstring(game:HttpGet("https://pastefy.app/Grnr8m8l/raw"))()
